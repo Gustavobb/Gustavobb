@@ -7,6 +7,6 @@ Passionate about computer graphics 👨🏽‍💻, web 3.0 and innovation 💡.
 Check out my CG projects [here](https://gubebra.itch.io/)!
 Feel free to message me at guubebra@gmail.com.
 
-<a href="https://github.com/gustavobb/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavobb&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" alt="gustavobb github stats" /></a>
+<a href="https://github.com/Gustavobb/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Gustavobb&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" alt="gustavobb github stats" /></a>
 
-<a href="https://github.com/gustavobb/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavobb&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px" /></a>
+<a href="https://github.com/Gustavobb/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavobb&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px" /></a>
