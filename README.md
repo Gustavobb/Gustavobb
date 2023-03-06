@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Gustavo Braga!
 
-I am a computer engineer with emphasis in computer graphics 👨🏽‍💻. Currently working with web 3.0 and innovation 💡. I have experience in building innovative solutions 📐 using spatial computing, digital twins and machine learning with the newest devices in the market like Hololens, Magic Leap and Oculus. Besides that, I am experienced in 3d and point cloud data manipulation 📋, shaders and multithreading processes. I also build games using Unity/Unreal/Godot 🕹.
+I have a degree in computer engineering, with a focus on computer graphics and computer vision 👨🏽‍💻. Currently working with web 3.0 and innovation 💡. I have experience in building innovative solutions 📐 using spatial computing, digital twins and machine learning with the newest devices in the market like Hololens, Magic Leap and Oculus. Besides that, I am experienced in 3d and point cloud data manipulation 📋, shaders and multithreading processes. I also build games using Unity/Unreal/Godot 🕹.
 
 Extremelly passionate about visual simulations 🧬 using compute shaders, fragment shaders and VFX Graph. Fascinated by ilusions and computer graphics challenges. 📡
 
