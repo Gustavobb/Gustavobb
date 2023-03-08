@@ -12,7 +12,6 @@ Feel free to message me at guubebra@gmail.com.📧
 
 <a href="https://github.com/Gustavobb/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavobb&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px" /></a>
  -->
-
 ### Some of my work with bio inspired simulations using shaders 🐞
 
 [3D Boids](https://gubebra.itch.io/3d-boids-exp-13)|[3D CA](https://gubebra.itch.io/3d-cyclic-cellular-automata-exp-12)|[Physarum](https://gubebra.itch.io/physarum-exp-11)
