@@ -1,12 +1,10 @@
 ## Hey 👋, I'm Gustavo Braga!
 
-I have a degree in computer engineering, with a focus on computer graphics and computer vision 👨🏽‍💻. Currently working with web 3.0 and innovation 💡. I have experience in building innovative solutions 📐 using spatial computing, digital twins and machine learning with the newest devices in the market like Hololens, Magic Leap and Oculus. Besides that, I am experienced in 3d and point cloud data manipulation 📋, shaders and multithreading processes. I also build games using Unity/Unreal/Godot 🕹.
+I have a degree in computer engineering, with a focus on computer graphics and computer vision 👨🏽‍💻. I have experience building innovative solutions 📐 using spatial computing, digital twins, and machine learning with the newest devices in the market like Hololens, Magic Leap, and Oculus. Besides that, I am experienced in 3d and point cloud data manipulation 📋, shaders, and multithreading processes. I also build games using Unity/Unreal/Godot 🕹.
 
-Extremelly passionate about visual simulations 🧬 using compute shaders, fragment shaders and VFX Graph. Fascinated by ilusions and computer graphics challenges. 📡
+Extremely passionate about visual simulations 🧬 using compute shaders, fragment shaders, and VFX Graph. Fascinated by illusions and computer graphics challenges. 📡
 
-You can check out my visual experiments, simulations, games and more [here](https://gubebra.itch.io/)! 🚀
-
-https://www.crazygames.com/game/evade
+You can check out my visual experiments, simulations, games, and more [here](https://gubebra.itch.io/)! 🚀 https://www.crazygames.com/game/evade
 
 Feel free to message me at guubebra@gmail.com.📧
 
@@ -14,7 +12,7 @@ Feel free to message me at guubebra@gmail.com.📧
 
 <a href="https://github.com/Gustavobb/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavobb&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px" /></a>
  -->
-### Some of my work with bio inspired simulations using shaders 🐞
+### Some of my work with bio-inspired simulations using shaders 🐞
 
 [3D Boids](https://gubebra.itch.io/3d-boids-exp-13)|[3D CA](https://gubebra.itch.io/3d-cyclic-cellular-automata-exp-12)|[Physarum](https://gubebra.itch.io/physarum-exp-11)
 :-------------------------:|:-------------------------:|:-------------------------:
