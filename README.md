@@ -1,12 +1,10 @@
 ## Hey 👋, I'm Gustavo Braga!
 
-I'm a computer engineer specialized in computer graphics and shaders, with extensive experience in spatial computing, digital twins, and machine learning. I’ve developed numerous VR/AR/MR applications for platforms like VisionPro, Quest devices, HoloLens, Magic Leap, and more. I also build games using Unity, Unreal, and Godot.
+I'm a computer engineer specialized in computer graphics and shaders, with extensive experience in spatial computing, digital twins, and machine learning. I’ve developed numerous VR/AR/MR applications for platforms like VisionPro, Quest devices, HoloLens, Magic Leap, and more. I also build games using Unity, Unreal, and Godot. I currently work at Doge Labs Inc, a company that built Big Ballers VR, the number #1 sports VR game on the Quest store!
 
 I'm deeply passionate about visual simulations, working with compute shaders, fragment shaders, and VFX Graph, and I'm fascinated by the art and challenges of computer-generated illusions.
-Check out my visual experiments, simulations, and games [here](https://gubebra.itch.io/)!
 
-I currently work at Doge Labs Inc, a company that built Big Ballers VR, the number #1 sports VR game on the Quest store!
-Feel free to reach out: guubebra@gmail.com 📧
+Check out my visual experiments, simulations, and games [here](https://gubebra.itch.io/)! Feel free to reach out: guubebra@gmail.com 📧
 
 <!-- <a href="https://github.com/Gustavobb/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Gustavobb&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" alt="gustavobb github stats" /></a>
 
