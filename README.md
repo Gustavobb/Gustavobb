@@ -1,6 +1,4 @@
-## Hey 👋, I'm Gustavo Braga!
-
-I'm a computer engineer specialized in computer graphics and shaders, with extensive experience in spatial computing, digital twins, and machine learning. I’ve developed numerous VR/AR/MR applications for platforms like VisionPro, Quest devices, HoloLens, Magic Leap, and more. I also build games using Unity, Unreal, and Godot. I currently work at Doge Labs Inc, a company that built Big Ballers VR, the number #1 sports VR game on the Quest store!
+I'm a computer engineer specialized in computer graphics and shaders, with extensive experience in spatial computing, digital twins, and machine learning. I’ve developed numerous VR/AR/MR applications for platforms like VisionPro, Quest devices, HoloLens, Magic Leap, and more. I also build games using Unity, Unreal, and Godot. I currently work at Doge Labs Inc, a company that built Big Ballers VR, the number #1 sports VR game on the Quest store.
 
 I'm deeply passionate about visual simulations, working with compute shaders, fragment shaders, and VFX Graph, and I'm fascinated by the art and challenges of computer-generated illusions.
 
